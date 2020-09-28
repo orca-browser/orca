@@ -1,6 +1,6 @@
 # Orca Browser
 
-Orca is a minimal, extensible, and light-weight web browser built on the WebKit rendering engine. With a powerful extension framework and base browser Orca is capable of doing 99% of what any major browser can do, just sans the bloat.
+Orca is a minimal, extensible, and light-weight web browser built on Mozilla's Gecko rendering engine, with the v8 engine used for JavaScript. With a powerful extension framework and base browser, Orca is extensible and unbloated.
 
 ## Installation
 ## Usage
@@ -8,6 +8,8 @@ Orca is a minimal, extensible, and light-weight web browser built on the WebKit 
 ### Installing plugins
 ### Keyboard shortcuts
 ## Developing Orca
+
+`// This README (and Orca) is currently unfinished! Stay tuned for updates!`
 
 Check out the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for information on how to setup your environment and contribute features or bug fixes to Orca.
 
