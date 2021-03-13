@@ -1,10 +1,10 @@
 # Orca
 
-Orca is a minimal, extensible and light-weight web browser built in Rust using Mozilla Gecko, Google v8, and Qt5. Orca was designed with speed, efficiency and rendering accuracy in mind.
-
-Browser's take a long time to develop and Orca is no exception. Very little of Orca's source is usable or even exists. Therefore the browser is in no way usable in production and should only be used by contributors when working on the project.
+Orca is a minimal, extensible and light-weight web browser built in Rust with goals of speed, efficiency and rendering accuracy.
 
 Orca is 100% free, and open-source. Development of Orca is made up entirely of volunteers and it would really help us out if you decided to volunteer, so please checkout the [Contributing to Orca](#contributing-to-orca) section of this document.
+
+Orca is unstable alpha software. Use at your own risk!
 
 ## Table of Contents
 
