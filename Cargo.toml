@@ -1,8 +1,11 @@
 [package]
 name = "orca"
 version = "0.1.0"
-authors = ["Luke Whrit <lukewhrit@gmail.com>"]
 edition = "2018"
+authors = [
+    "Luke Whrit <lukewhrit@pm.me>",
+    "Jack Dorland <puggo@puggo.space>"
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
