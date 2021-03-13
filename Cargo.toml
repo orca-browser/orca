@@ -1,11 +1,15 @@
 [package]
 name = "orca"
+description = "A fast and lightweight browser written in Rust."
 version = "0.1.0"
 edition = "2018"
 authors = [
     "Luke Whrit <lukewhrit@pm.me>",
     "Jack Dorland <puggo@puggo.space>"
 ]
+repository = "https://github.com/coral-dev/orca"
+license = "GPL-3.0-only"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
